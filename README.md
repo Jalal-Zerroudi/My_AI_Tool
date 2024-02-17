@@ -29,7 +29,7 @@
                 2-1-Attention mechanisms: Guide the model's focus on specific image regions based on text cues.
                 2-2Conditional image generation: Train the model on paired image-text datasets to learn text-to-image relationships.
 
-**=> Here are some helpful resources to get you started: **
+**=> Here are some helpful resources to get you started :**
 
        1-OpenCV: https://opencv.org/
        2-MoviePy: https://zulko.github.io/moviepy/
