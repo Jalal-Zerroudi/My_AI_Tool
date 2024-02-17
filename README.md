@@ -2,8 +2,6 @@
 
 # Creating an "image to video" AI tool using Python is an exciting project : 
 
-**=> You can us **runwayml** https://app.runwayml.com/ .**
-
 **=> Basic approach :**
 
         1-OpenCV:
@@ -42,3 +40,5 @@
        6-PixelRNN: https://arxiv.org/pdf/1606.05328
        7-DDPM: https://arxiv.org/abs/2006.11239
        8-Stable Diffusion: https://www.youtube.com/watch?v=e6AefYvPJg0
+       
+**=> If you don't want to create an AI-Tool You can use **runwayml** to transfer the image to videos https://app.runwayml.com/**
