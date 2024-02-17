@@ -29,7 +29,7 @@
             allowing users to control specific aspects of the generated video. 
             This involves techniques like:
                 2-1-Attention mechanisms: Guide the model's focus on specific image regions based on text cues.
-                2-2Conditional image generation: Train the model on paired image-text datasets to learn text-to-image relationships.
+                2-2-Conditional image generation: Train the model on paired image-text datasets to learn text-to-image relationships.
 
 **=> Here are some helpful resources to get you started :**
 
