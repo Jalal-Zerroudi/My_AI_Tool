@@ -5,11 +5,12 @@
 
 **=> Basic approach :**
 
-        *1-OpenCV:* 
+        1-OpenCV:
                 This versatile library allows you to read images,
                 write video files, and apply basic image processing techniques.
                 You can use OpenCV to create a simple slideshow-like video from a sequence of images.
-        *2-MoviePy:* 
+        
+        2-MoviePy:
                 Another popular library for video editing in Python.
                 It offers various functionalities like adding transitions, effects, and audio to your video.
                 You can combine MoviePy with OpenCV to create more visually appealing results.
@@ -22,6 +23,7 @@
             Popular choices include:
                 1-1-Video prediction models: Learn the temporal dynamics of image sequences and predict future frames. (e.g., ConvLSTMs, PixelRNN)
                 1-2-Diffusion models: Progressively refine noise into coherent videos guided by the input image. (e.g., DDPM, Stable Diffusion)
+        
         2-Text-guided image animation: 
             Integrate text descriptions with image-to-video generation,
             allowing users to control specific aspects of the generated video. 
